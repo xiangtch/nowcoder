@@ -1,9 +1,7 @@
 package com.xiangtch.nowcoder;
 
-import java.math.BigInteger;
-
 /**
- *  大数加法
+ *  大数加法 - 字符串从尾部插入
  * @author xiangtch - xiangtch6@gmail.com
  * @date 2021/6/28 0:58
  */
