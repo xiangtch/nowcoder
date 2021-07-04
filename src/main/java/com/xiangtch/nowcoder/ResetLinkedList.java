@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  重排链表:
+ *  重排链表 - 转 List 线性表，双指针遍历
  *      原：L0 -> L1 -> L2 -> ... -> Ln-1 -> Ln
  *      现：L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2 -> ...
  * @author xiangtch - xiangtch6@gmail.com
