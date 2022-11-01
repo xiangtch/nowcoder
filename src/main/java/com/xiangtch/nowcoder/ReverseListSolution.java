@@ -1,7 +1,5 @@
 package com.xiangtch.nowcoder;
 
-import java.util.Collections;
-
 /**
  *  反转链表 - 遍历链表，替换 next 指针
  * @author xiangtch - xiangtch6@gmail.com
